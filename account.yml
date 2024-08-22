@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+account:
+  message: "Welcome to Eazybank app - account local APIs"
+  contactDetails:
+    name: "Varsha Venkatesh"
+    email: "varsha.pes@gmail.com"
+  onCallSupport:
+    - 6363552714
+    - 9538481797
