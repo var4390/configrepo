@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 account:
-  message: "Welcome to Eazybank app - account prod APIs"
+  message: "Welcome to Eazybank app - account production APIs"
   contactDetails:
     name: "Varsha Venkatesh"
     email: "varsha.pes@gmail.com"
